@@ -2,7 +2,7 @@
     "name": "Notification",
     "short_name": "Notification",
     "icons": [],
-    "start_url": ".",
+    "start_url": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone"
